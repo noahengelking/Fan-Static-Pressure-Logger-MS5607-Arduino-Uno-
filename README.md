@@ -2,7 +2,7 @@
 
 A low-cost data-logging system for measuring the small static-pressure
 differential produced by a PC fan, using a piezoresistive barometric
-sensor and an Arduino Uno. Developed for [course / project name].
+sensor and an Arduino Uno. Developed for my IB physics Extended Essay.
 
 ## Overview
 An absolute barometric pressure sensor (MS5607) is sampled over I²C by an
