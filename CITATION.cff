@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Fan Static-Pressure Logger (MS5607 + Arduino Uno)"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Engelking"
+    given-names: "Noah"
+version: 1.0.0
+date-released: "2026-09-17"
+license: MIT
+repository-code: "https://github.com/noahengelking/Fan-Static-Pressure-Logger-MS5607-Arduino-Uno-"
